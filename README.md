@@ -6,15 +6,13 @@ Bellow are two main ways to run the application. Once it's running, it should ac
 
 ### IntelliJ IDEA
 If you have IntelliJ IDEA set up you should be able to get this running like any other basic Gradle project.
-1. Extract the `.zip`
-1. Import the extracted project into IntelliJ
+1. Import the project into IntelliJ
 1. Refresh Gradle
 1. Run/Debug the `main` method in `BarrenlandApplication`
 
 ### Gradle Commands
 The other way to run the application is through Gradle commands.
-1. Extract the `.zip`
-1. Navigate to the root directory of the extracted project
+1. Navigate to the root directory of the project
 1. Execute the following Gradle command to clean, build, test, and run the application:
 
     ```shell script
